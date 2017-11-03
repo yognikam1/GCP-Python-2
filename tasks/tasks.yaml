@@ -1,5 +1,5 @@
-application: cpd200-nuggets
-version: tasks-001
+application: dummyproject-05042017
+version: y-tasks-001
 module: tasks
 runtime: python27
 api_version: 1
