@@ -1,5 +1,5 @@
-application: 
-version: alpha-002
+application: dummyproject-05042017
+version: y-alpha-002
 module: default
 runtime: python27
 api_version: 1
