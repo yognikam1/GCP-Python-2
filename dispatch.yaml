@@ -1,4 +1,4 @@
-dispatch:
+dispatch:dummyproject-05042017
   - url: "cpd200-nuggets.appspot.com/"
     module: default
     
